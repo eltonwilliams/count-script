@@ -14,4 +14,6 @@ print "the amount now is",i
 print "now we will count backwards from",i
 while i>=0:
     print "Count at :",i
+    if i == 50:
+        print "half way through, almost there"
     i-=1
