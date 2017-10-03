@@ -14,7 +14,9 @@ print "\n\nnow we will subtract 50 from",i
 print i,"- 50"
 i-=50
 print "\nthe amount now is",i
+print "\n--------------------------------------"
 print "\n\nnow we will count backwards from",i
+print "\n"
 while i>=0:
     print "Count at :",i
     if i == 50:
