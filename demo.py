@@ -23,4 +23,4 @@ while i>=0:
         print "\nhalf way through, almost there\n"
     i-=1
 
-print \n--------------------------------------"
+print "\n--------------------------------------"
