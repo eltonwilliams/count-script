@@ -22,3 +22,5 @@ while i>=0:
     if i == 50:
         print "\nhalf way through, almost there\n"
     i-=1
+
+print \n--------------------------------------"
