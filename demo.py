@@ -1,4 +1,6 @@
-i=1
+###this python scripts was created to test git changes
+
+i=1 #initializes counter
 
 while i<=150:
     print "Count at :",i
