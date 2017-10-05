@@ -1,5 +1,5 @@
 ###this python scripts was created to test git changes
-
+fg
 i=1 #initializes counter
 
 while i<=150:
