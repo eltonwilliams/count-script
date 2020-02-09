@@ -26,3 +26,6 @@ while i>=0:
     i-=1
 
 print "\n--------------------------------------"
+
+with open("output.txt",'w') as outf:
+    outf.write("testing")
